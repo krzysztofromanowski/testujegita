@@ -4,6 +4,12 @@ $(function () {
         { firstName: "Andrzej", lastName: "Kielcz" },
         { firstName: "Piotr", lastName: "Piotrowski" },
         { firstName: "Kamil", lastName: "Kamilowski" },
+        { firstName: "Kama", lastName: "Kamowska" },
+        { firstName: "Piotr", lastName: "Piotro" },
+        { firstName: "Andrzej", lastName: "Kielcz" },
+        { firstName: "Pacjent", lastName: "Pacjentowski" },
+        { firstName: "Andrzej", lastName: "Kielcz" },
+        { firstName: "Test", lastName: "Testowy" },
     ];
 
     patientsList.forEach(function (patient) {
