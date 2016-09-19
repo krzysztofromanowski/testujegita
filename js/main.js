@@ -24,7 +24,7 @@ $(function () {
         { firstName: "drAdam", lastName: "Nowak" },
         { firstName: "drAndrzej", lastName: "Kielcz" },
         { firstName: "Piotr", lastName: "Piotrowski" },
-        { firstName: "Kamil", lastName: "Kamilowski" },
+        { firstName: "KAMIL", lastName: "Kamilowski" },
     ];
 
 
