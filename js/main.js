@@ -7,15 +7,7 @@ $(function () {
         { firstName: "Kama", lastName: "Kamowska" },
         { firstName: "Piotr", lastName: "Piotro" },
         { firstName: "Andrzej", lastName: "Kielcz" },
-        { firstName: "Pacjent", lastName: "Pacjentowski" },
-        { firstName: "Andrzej", lastName: "Kielcz" },
-        { firstName: "Test", lastName: "Testowy" },
-    ];
-
-    patientsList.forEach(function (patient) {
-        addPatient(patient);
-    })
-});
+        { fi
 
 function addPatient(patient) {
     $("#patients-list")
