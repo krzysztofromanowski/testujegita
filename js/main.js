@@ -18,3 +18,14 @@ function addPatient(patient) {
             .text(patient.firstName + " " + patient.lastName)
         );
 }
+
+$(function () {
+    var doctorList = [
+        { firstName: "drAdam", lastName: "Nowak" },
+        { firstName: "drAndrzej", lastName: "Kielcz" },
+        { firstName: "Piotr", lastName: "Piotrowski" },
+        { firstName: "Kamil", lastName: "Kamilowski" },
+    ];
+
+
+
